@@ -9,7 +9,7 @@ env:
   LOCATION: centralindia
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 6d847480-c390-4412-91cf-b1631aed6423
-  WEBAPP-NAME: az400-webapp-ess-ad
+  WEBAPP-NAME: az400-webapp-ess
 
 
 jobs:
